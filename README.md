@@ -3,7 +3,7 @@
 **Dictée vocale pour Windows 10 et 11.** Un raccourci (Alt + W), tu parles, et le texte s'écrit là où tu étais en train
 d'écrire : Word, Outlook, navigateur, n'importe quelle application. Il reste aussi dans le presse-papiers.
 
-**[Télécharger Dicto.exe](https://github.com/Gadjoffrey/Dicto/releases/latest/download/Dicto.exe)** (version 2.1.1)
+**[Télécharger Dicto.exe](https://github.com/Gadjoffrey/Dicto/releases/latest/download/Dicto.exe)** (version 2.1.2)
 
 ![Accueil (thème clair)](captures/accueil-clair.png)
 
